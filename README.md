@@ -43,3 +43,6 @@ using cv.resize.
 4. Then we scale the images and on target we used to_categorical function from
 np.utils.
 5. We applied the CNN model, SVM model, KNN and Logistic Regression.
+
+
+  ![](https://cdn-images-1.medium.com/max/1600/1*SKlPuk4vscYs3bl1bFdT5g.gif)
